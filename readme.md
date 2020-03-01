@@ -2,7 +2,7 @@
 
 ## Deploy Spring Boot REST API, Full Stack Applications and Microservices to Cloud (AWS, Azure, GCP and PCF) with Docker and Kubernetes
 
-(Check out our amazing Learning Paths)[https://github.com/in28minutes/learn/tree/master/learning-paths]
+https://github.com/in28minutes/learn/tree/master/learning-paths
 
 - Learning Path 01 - Spring and Spring Boot Web Applications & API Developer
 - Learning Path 02 - Full Stack Developer with Spring Boot,React and Angular
