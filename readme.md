@@ -10,3 +10,33 @@ https://github.com/in28minutes/learn/tree/master/learning-paths
 - Learning Path 04 - Cloud Developer with Spring Boot, AWS, Azure and PCF
 - Learning Path 05 - Learn AWS with Microservices, Docker and Kubernetes
 
+
+## Articles to Write
+
+### Deploy Java + Spring Boot + Web Application + MySQL
+- Docker (WAR)
+- Docker Compose
+- AWS with AWS Elastic Beanstalk
+- PCF
+- Java Web App with Azure 
+
+### Deploy Docker + Java + Spring Boot + Hello World + Jar
+
+### Deploy Spring Boot Microservices
+- Docker
+- Docker Compose
+- Kubernetes
+- AWS with Docker and ECS
+- PCF
+- Azure
+
+### Deploy Docker Containerized Application
+- AWS
+- PCF
+- Azure
+
+### Full Stack React Application
+- AWS with AWS Elastic Beanstalk
+- Docker
+- PCF
+- Azure
