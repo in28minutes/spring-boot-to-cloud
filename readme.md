@@ -40,3 +40,11 @@ https://github.com/in28minutes/learn/tree/master/learning-paths
 - Docker
 - PCF
 - Azure
+
+### Github Private Repos
+- https://github.com/in28minutes/aws-bean-stalk-course-articles
+- https://github.com/in28minutes/aws-ecs-fargate-course-articles
+- https://github.com/in28minutes/azure-app-service-articles
+- https://github.com/in28minutes/docker-course-with-java-and-spring-boot-articles
+- https://github.com/in28minutes/kubernetes-crash-course-articles
+- https://github.com/in28minutes/cloud-pcf-articles
